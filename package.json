@@ -1,14 +1,14 @@
 {
-  "name": "moodlemobile",
-  "version": "3.4.2",
-  "description": "The official app for Moodle.",
+  "name": "synrgisemobile",
+  "version": "1.0.0",
+  "description": "The official app for Synrgise Learn.",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "Synrgise Pty Ltd.",
+    "email": "info@synrgise.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moodlehq/moodlemobile2.git"
+    "url": "https://github.com/Synrgise/moodlemobile2.git"
   },
   "license": "Apache-2.0",
   "licenses": [
